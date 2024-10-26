@@ -6,7 +6,7 @@
 
 ## Usage
 
-Copy `autounattend.xml` to the same directory as `setup.exe`
+Copy `autounattend.xml` to the same directory as `setup.exe` in `windows_install.iso`
 
 ## Features
 
