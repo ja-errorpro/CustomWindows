@@ -20,3 +20,7 @@ Copy `autounattend.xml` to the same directory as `setup.exe`
 * Allow Powershell Script Execution
 * No BitLocker
 * No Copilot, Bing Search, Skype
+
+## Source
+
+You can generate your `autounattend.xml` on [Generate autounattend.xml files for Windows 10/11](https://schneegans.de/windows/unattend-generator/)
